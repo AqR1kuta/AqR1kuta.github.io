@@ -110,7 +110,6 @@
   border-left: 3px #e5e5d1 solid;
   padding-left: 10px;
 }
-}
 .timeline-content:before {
   content: '';
   width: 12px;
@@ -160,6 +159,7 @@ table th,table td{
 
 table tr:nth-child(odd){
   background-color: #eee
+}
 }
 .portfolio-blog-card-full-bg {
   background: url(images/example-blog03.jpg) center / cover;
